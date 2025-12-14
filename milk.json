@@ -4,5 +4,14 @@
   "artist": "asd",
   "author": "dd",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "122",
+      "volume": "1",
+      "groups": {
+        "Kimashitawa": "/proxy/api/imgchest/chapter/ej7mlng994d/"
+      },
+      "last_updated": "1765734524"
+    }
+  }
 }
