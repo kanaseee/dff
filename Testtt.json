@@ -4,5 +4,14 @@
   "artist": "dsa",
   "author": "ddd",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "groups": {
+        "Spruce Tree Scanlations": "/proxy/api/imgchest/chapter/9249kpem2yn/"
+      },
+      "last_updated": "1765736691"
+    }
+  }
 }
