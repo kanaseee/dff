@@ -5,14 +5,6 @@
   "author": "Shinoa",
   "cover": "https://cdn.imgchest.com/files/51838190b5b1.png",
   "chapters": {
-    "2": {
-      "title": "poolside",
-      "volume": "1",
-      "groups": {
-        "kimashitower": "/proxy/api/imgchest/chapter/9249kpem2yn/"
-      },
-      "last_updated": "1766380244"
-    },
     "1": {
       "title": "Spilled Milk - Shinoa",
       "volume": "1",
@@ -20,6 +12,14 @@
         "kimashitower": "/proxy/api/imgchest/chapter/9249kvez8yn/"
       },
       "last_updated": "1766380409"
+    },
+    "2": {
+      "title": "poolside",
+      "volume": "1",
+      "groups": {
+        "kimashitower": "/proxy/api/imgchest/chapter/9249kpem2yn/"
+      },
+      "last_updated": "1766380244"
     },
     "8": {
       "title": "stain \u30b7\u30df",
