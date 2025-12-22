@@ -5,13 +5,29 @@
   "author": "ddd",
   "cover": "",
   "chapters": {
-    "1": {
-      "title": "1",
+    "2": {
+      "title": "Poolside",
       "volume": "1",
       "groups": {
-        "test": "/proxy/api/imgchest/chapter/9249kpem2yn/"
+        "kimashitower": "/proxy/api/imgchest/chapter/9249kpem2yn/"
       },
-      "last_updated": "1765769493"
+      "last_updated": "1766377507"
+    },
+    "1": {
+      "title": "Spilled Milk",
+      "volume": "1",
+      "groups": {
+        "kimashitower": "/proxy/api/imgchest/chapter/9249kvez8yn/"
+      },
+      "last_updated": "1766377507"
+    },
+    "8": {
+      "title": "Stain",
+      "volume": "1",
+      "groups": {
+        "kimashitower": "/proxy/api/imgchest/chapter/ej7mlng994d/"
+      },
+      "last_updated": "1766377507"
     }
   }
 }
