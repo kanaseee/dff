@@ -3,7 +3,7 @@
   "description": "A short story collection compiling 7 stories posted on Shinoa's social media and 1 newly written story.",
   "artist": "Shinoa",
   "author": "Shinoa",
-  "cover": "",
+  "cover": "https://cdn.imgchest.com/files/51838190b5b1.png",
   "chapters": {
     "1": {
       "title": "Spilled Milk",
@@ -11,7 +11,7 @@
       "groups": {
         "kimashitower": "/proxy/api/imgchest/chapter/9249kvez8yn/"
       },
-      "last_updated": "1766378069"
+      "last_updated": "1766378089"
     },
     "2": {
       "title": "Poolside",
@@ -19,7 +19,7 @@
       "groups": {
         "kimashitower": "/proxy/api/imgchest/chapter/9249kpem2yn/"
       },
-      "last_updated": "1766378069"
+      "last_updated": "1766378089"
     },
     "8": {
       "title": "Stain",
@@ -27,7 +27,7 @@
       "groups": {
         "kimashitower": "/proxy/api/imgchest/chapter/ej7mlng994d/"
       },
-      "last_updated": "1766378069"
+      "last_updated": "1766378089"
     }
   }
 }
