@@ -4,5 +4,14 @@
   "artist": "Shinoa",
   "author": "Shinoa",
   "cover": "https://cdn.imgchest.com/files/51838190b5b1.png",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "poolside",
+      "volume": "1",
+      "groups": {
+        "kimashitower": "/proxy/api/imgchest/chapter/9249kpem2yn/"
+      },
+      "last_updated": "1766380244"
+    }
+  }
 }
