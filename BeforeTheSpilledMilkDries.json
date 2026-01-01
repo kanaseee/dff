@@ -1,6 +1,6 @@
 {
   "title": "Before the Spilled Milk Dries Up.",
-  "description": "A short story collection compiling 7 stories posted on Shinoa's social media and 1 newly written story.",
+  "description": "A short story collection compiling 7 stories posted on Shinoa's social media and 1 newly written story.  \\n More Info: https://rentry.co/koboretamiruku",
   "artist": "Shinoa",
   "author": "Shinoa",
   "cover": "https://cdn.imgchest.com/files/51838190b5b1.png",
@@ -29,14 +29,6 @@
       },
       "last_updated": "1766931426"
     },
-    "8": {
-      "title": "stain シミ",
-      "volume": "1",
-      "groups": {
-        "kimashitower": "/proxy/api/imgchest/chapter/ej7mlng994d/"
-      },
-      "last_updated": "1766380409"
-    },
     "4.1": {
       "title": "Train Story (recolored)",
       "volume": "1",
@@ -44,6 +36,14 @@
         "kimashitower": "/proxy/api/imgchest/chapter/ljyqkmz8dy2/"
       },
       "last_updated": "1766931470"
+    },
+    "8": {
+      "title": "stain \u30b7\u30df",
+      "volume": "1",
+      "groups": {
+        "kimashitower": "/proxy/api/imgchest/chapter/ej7mlng994d/"
+      },
+      "last_updated": "1766380409"
     }
   }
 }
