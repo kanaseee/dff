@@ -37,6 +37,14 @@
       },
       "last_updated": "1766931470"
     },
+    "5": {
+      "title": "When Summer Comes",
+      "volume": "1",
+      "groups": {
+        "kimashitower": "/proxy/api/imgchest/chapter/a846omdqv4x/"
+      },
+      "last_updated": "1768043905"
+    },
     "8": {
       "title": "Stain",
       "volume": "1",
@@ -45,13 +53,13 @@
       },
       "last_updated": "1767512718"
     },
-    "5": {
-      "title": "When Summer Comes",
+    "7": {
+      "title": "Princess and the Little Mermaid",
       "volume": "1",
       "groups": {
-        "kimashitower": "/proxy/api/imgchest/chapter/a846omdqv4x/"
+        "kimashitower": "/proxy/api/imgchest/chapter/9249kem58yn/"
       },
-      "last_updated": "1768043905"
+      "last_updated": "1768095826"
     }
   }
 }
