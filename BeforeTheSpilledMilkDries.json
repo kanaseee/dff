@@ -1,5 +1,5 @@
 {
-  "title": "Before the Spilled Milk Dries Up.",
+  "title": "Before the Spilled Milk Dries.",
   "description": "A short story collection compiling 7 stories posted on Shinoa's social media and 1 newly written story.   More Info: https://rentry.co/koboretamiruku ",
   "artist": "Shinoa",
   "author": "Shinoa",
@@ -45,14 +45,6 @@
       },
       "last_updated": "1771150928"
     },
-    "8": {
-      "title": "Stain",
-      "volume": "1",
-      "groups": {
-        "kimashitower": "/proxy/api/imgchest/chapter/ej7mlng994d/"
-      },
-      "last_updated": "1767512718"
-    },
     "7": {
       "title": "Princess and the Little Mermaid",
       "volume": "1",
@@ -60,6 +52,14 @@
         "kimashitower": "/proxy/api/imgchest/chapter/9249kem58yn/"
       },
       "last_updated": "1768095826"
+    },
+    "8": {
+      "title": "Stain",
+      "volume": "1",
+      "groups": {
+        "kimashitower": "/proxy/api/imgchest/chapter/ej7mlng994d/"
+      },
+      "last_updated": "1767512718"
     }
   }
 }
